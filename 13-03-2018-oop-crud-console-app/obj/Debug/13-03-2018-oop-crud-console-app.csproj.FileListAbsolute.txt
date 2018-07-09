@@ -1,0 +1,21 @@
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.exe.config
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.exe
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.pdb
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.csprojResolveAssemblyReference.cache
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.exe
+C:\Users\Samir\source\repos\P106\13-03-2018-oop-crud-console-app\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.pdb
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.exe.config
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.exe
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.pdb
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.csprojResolveAssemblyReference.cache
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.csproj.CoreCompileInputs.cache
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.exe
+C:\Users\Zohrali\Desktop\CA\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.pdb
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.exe.config
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.exe
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\bin\Debug\13-03-2018-oop-crud-console-app.pdb
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.csprojAssemblyReference.cache
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.csproj.CoreCompileInputs.cache
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.exe
+C:\Users\Zohrali\Desktop\CA\C# Fundamentals\13.03.2018\13-03-2018-oop-crud-console-app\obj\Debug\13-03-2018-oop-crud-console-app.pdb
